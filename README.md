@@ -57,6 +57,6 @@ The goal of this project is to build a convolutional neural network (CNN) that c
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Yousef-salah-Ma/Pediatric-Chest-XRay-Pneumonia.git
+cd Pediatric-Chest-XRay-Pneumonia
 pip install -r requirements.txt
